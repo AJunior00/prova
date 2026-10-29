@@ -38,8 +38,10 @@
     <title>Document</title>
 </head>
 <body>
-<form type="text" id="nome" name="nome" require>Nome do robo</form>
-<form type="text" id="modelo" name="modelo">modelo</form>
-<form type="text" id="operador" name="operador">Nome do operador</form>
+
+    <form type="text" id="nome" name="nome" require>Nome do robo</form>
+    <form type="text" id="modelo" name="modelo" require>modelo</form>
+    <form type="text" id="operador" name="operador" require>Nome do operador</form>
+
 </body>
 </html>
